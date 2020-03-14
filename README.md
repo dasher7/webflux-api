@@ -31,12 +31,12 @@ Create a database called rt_weblux listening on port 27017.
 Update your dependcy via Maven and run the app.
 It will start a server on * localhost:8080 * use the embedded TomCat provided by Spring Boot.
 
-# Contribuiton and Usage
+## Contribuiton and Usage
 
 Feel free to use the project for your own like.
 NOTE: The project is always a WIP, because I will always try new things and test new topic.
 
-# License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
